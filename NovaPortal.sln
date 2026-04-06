@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NovaPortal", "NovaPortal\NovaPortal.csproj", "{70482E60-E1F0-4F4E-9E75-A0DE07776F3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70482E60-E1F0-4F4E-9E75-A0DE07776F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70482E60-E1F0-4F4E-9E75-A0DE07776F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70482E60-E1F0-4F4E-9E75-A0DE07776F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70482E60-E1F0-4F4E-9E75-A0DE07776F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C3C9731-2F74-460B-99C4-82A203E7167A}
+	EndGlobalSection
+EndGlobal
